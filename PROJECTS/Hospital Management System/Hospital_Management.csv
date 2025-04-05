@@ -1,0 +1,4 @@
+,Patient_ID,Visit_Date,DOB,Age,Patient_Name,Patient_Address,Payment_Mode,Membership,Token
+0,ASM0405,2021-01-28,04-05-1995,25,Asmita,hdudy,card,No,RKC01282021001
+1,RAJ2503,2021-02-03,25-03-1996,24,Raj,"Trivandrum,Kerala",card,yes,RKC02032021002
+0,AYA2503,2021-02-03,25-03-1996,24,Ayan,asffqfwaswdf,card,no,RKC02032021003

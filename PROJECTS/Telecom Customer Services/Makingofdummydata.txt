@@ -1,0 +1,207 @@
+Timestamp: 2021-01-04T23:47:37Z
+Unread:false
+Visitor ID: 11zji0000y7ijml
+Visitor Name: visitor_1
+Visitor Email: 
+Visitor Notes: Department : 
+Sumary: 
+IP: 
+Country Code: EG
+Country Name: Egypt
+Region: Giza
+City: Giza
+User Agent: Agent_1
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 23:47:36) visitor_1:  
+(2021-01-04 23:47:39) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment, click here t
+(2021-01-04 23:47:55) Agent_1: Welcome to  chat support! This is Agent_1.
+How may I assist you today?
+(2021-01-04 23:49:38) Agent_1: Are you still here?
+(2021-01-04 23:50:02) Agent_1: We can realize that you are busy at the moment. 
+You can also use My  App, to know more about your bills, remaining balance and also to add or remove add-ons.
+Kindly contact us back again if you still need any help. Thank you for contacting Chat Support, have a great day!
+================================================================================
+Timestamp: 2021-01-04T23:38:23Z
+Unread:false
+Visitor ID: 11zji9F000OK5Wo
+Visitor Name: Visitor_2
+Visitor Email:
+Visitor Notes: 
+IP: 
+Country Code: IN
+Country Name: India
+Region: West Bengal
+City: Kolkata
+User Agent: Agent_2
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 23:38:23) Visitor_2: bgffc
+(2021-01-04 23:38:24) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment, 
+(2021-01-04 23:38:40) Agent_2: Welcome to  chat support. My name is Agent_2. How may I assist you today?
+(2021-01-04 23:38:42) Visitor_2: caller tune free
+(2021-01-04 23:38:55) Visitor_2: bolo
+(2021-01-04 23:38:58) Visitor_2: app
+(2021-01-04 23:39:12) Agent_2: Be assured I will do my best to help you
+(2021-01-04 23:39:22) Agent_2: To proceed further May I get your name along with concern  mobile number?
+================================================================================
+Timestamp: 2021-01-04T23:16:34Z
+Unread:false
+Visitor ID: 11zji97AhNgf05U
+Visitor Name: visitor_3
+Visitor Email: 
+Visitor Notes: Department : 
+Sumary: 
+IP: 100.0.0.1
+Country Code: FJ
+Country Name: Fiji
+Region:Suva
+City: Suva
+User Agent: Agent_3
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 23:16:34) visitor_3:  
+(2021-01-04 23:16:35) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment,
+(2021-01-04 23:16:44) visitor_3: I cancel this number
+(2021-01-04 23:16:45) Agent_3: Welcome to  chat support! This is Agent_3.
+(2021-01-04 23:17:20) Agent_3: Number please?
+(2021-01-04 23:17:38) visitor_3: this same plan have give me discount then I will continue
+(2021-01-04 23:17:43) visitor_3: 75854856
+(2021-01-04 23:18:12) Agent_3: Your number is in prepaid.
+(2021-01-04 23:18:40) visitor_3: postpaid
+(2021-01-04 23:18:54) visitor_3: sorry 75468462
+(2021-01-04 23:19:24) Agent_3: Do you want to cancel the number ?
+(2021-01-04 23:19:36) visitor_3: ss
+(2021-01-04 23:19:55) Agent_3: I'm really sorry to hear that, May I ask you what's the reason for disconnection request?
+(2021-01-04 23:20:04) visitor_3: give me discount i will continue this connection
+(2021-01-04 23:20:14) Agent_3: For discount related information contact our sales team on 111 and press option 3.
+(2021-01-04 23:20:27) visitor_3: ok
+(2021-01-04 23:20:30) Agent_3: Between 9AM to 10 PM
+(2021-01-04 23:20:37) visitor_3: ok
+(2021-01-04 23:20:44) Agent_3: If you would like to Recharge, add or remove Add on, check or Pay your Bill and much more features, please use My App. you can also click on the Smile face Labeeb for further assistance.
+(2021-01-04 23:21:03) visitor_3: thanks
+(2021-01-04 23:21:09) Agent_3: Is there anything else I may assist you with?
+(2021-01-04 23:22:31) Agent_3: You will receive two SMS asking for your valuable feedback regarding our conversation. Rating is from 1 to 10, where 10 means highly satisfied.
+
+On the second SMS, if you feel I helped you on your first contact with me, then please choose (Yes). Replying to rating SMS is free of charge. I highly appreciate your feedback as it will help in improving our services. Thank you for choosing . Have a nice day.
+(2021-01-04 23:22:57) Agent_3: Thank you for contacting , have a lovely day!
+================================================================================
+Timestamp: 2021-01-04T23:04:39Z
+Unread:false
+Visitor ID: 11zji92000DXUXy
+Visitor Name: Visitor_4
+Visitor Email: 
+Visitor Notes: Department : 
+Sumary: 
+IP: 100.01.01.004
+Country Code: IN
+Country Name: India
+Region: Uttar Pradesh
+City: Lucknow
+
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 23:04:39) Visitor_4:  
+(2021-01-04 23:04:40) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment,
+(2021-01-04 23:04:45) Visitor_4: gg
+(2021-01-04 23:04:47) Agent_3: Welcome to  chat support! This is Agent_3.
+(2021-01-04 23:07:17) Agent_3: We can realize that you are busy at the moment. 
+You can also use My App, to know more about your bills, remaining balance and also to add or remove add-ons.
+Kindly contact us back again if you still need any help. Thank you for contacting Chat Support, have a great day!
+================================================================================
+Timestamp: 2021-01-04T23:02:34Z
+Unread:false
+Visitor ID: 11zji90000C1aNb
+Visitor Name: visitor_5
+Visitor Email: 
+Visitor Notes: Department : 
+Sumary: 
+Department : 
+Sumary: 
+IP: 100.01.01.003
+Country Code: IN
+Country Name: India
+Region: Gujarat
+City: Ahmedabad
+
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 23:02:33) visitor_5:  
+(2021-01-04 23:02:35) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment,bill-payment
+(2021-01-04 23:02:48) Agent_3: Welcome to chat support! This is Agent_3.
+(2021-01-04 23:02:58) visitor_5: *100#
+(2021-01-04 23:03:22) visitor_5: 99999999455
+(2021-01-04 23:03:29) Agent_3: You are chatting with Qatar support.
+To chat with or Idea Indian customer support please download VI app from app store or play store using this link https://www.myvi.in/vi-app
+It was pleasure chatting with you, you were talking to Agent_3. Have a lovely day ahead.
+================================================================================
+Timestamp: 2021-01-04T23:00:22Z
+Unread:false
+Visitor ID:11zji90UGkfVqm3
+Visitor Name: Visitor_6
+Visitor Email: 
+Visitor Notes: Department : 
+Sumary: 
+IP: 100.01.01.002
+Country Code: FJ
+Country Name: Fiji
+Region:Suva
+City: Suva
+
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 23:00:22) Visitor_6:  
+(2021-01-04 23:00:24) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment, 
+(2021-01-04 23:00:35) Agent_3: Welcome to chat support! This is Agent_3.
+(2021-01-04 23:01:14) Visitor_6: Hi Very good morning
+(2021-01-04 23:01:39) Visitor_6: i  want to know about  U plan
+(2021-01-04 23:02:00) Agent_3: As I can understand you want to enquire about U plan benefits, right ?
+(2021-01-04 23:02:23) Visitor_6: yes
+(2021-01-04 23:02:39) Agent_3: I can definitely help you with that! Could you please confirm if you are inquiring about the same number 995566444  or a different number?
+(2021-01-04 23:03:05) Visitor_6: yes this is my number
+(2021-01-04 23:03:50) Agent_3: We are Happy to inform you that we have launched new plans,
+
+With U plans, the customer has the ability to adjust his local data or local minutes through . The adjusted changes will be
+allocated to customer on their next plan renewal/bill cycle.
+
+(2021-01-04 23:05:52) Visitor_6: can you please arrange call from sales department for me?
+(2021-01-04 23:06:08) Agent_3: Sure.
+(2021-01-04 23:06:32) Agent_3: I'm arranging it and within 24 hours you'll be contacted from our end.
+(2021-01-04 23:06:51) Visitor_6: thanks a lot
+(2021-01-04 23:07:12) Agent_3: You're most welcome!
+================================================================================
+Timestamp: 2021-01-04T22:59:15Z
+Unread:false
+Visitor ID:11zji6mgD4sWd6W
+Visitor Name: Visitor_7
+Visitor Email: Visitor_7@gmail.com
+Visitor Notes: Department : 
+Sumary: 
+Department : 
+Sumary: 
+Department : 
+Sumary: 
+IP: 100.01.01.001
+Country Code: IN
+Country Name: India
+Region: Gujarat
+City: Ahmedabad
+Platform: Android
+Browser: Chrome
+
+(2021-01-04 22:59:15) Visitor_7:  
+(2021-01-04 22:59:17) Customer Service: Thanks for using chat! Our agents are busy at the moment serving other customers. Please continue to wait and we will attend to you shortly.  If you are contacting us to know your usage, offers, bill, make payments or to buy recharge /Add-ons, we highly recommend that you use our self-service options on our IVR, App & *100#. To make a bill payment, click here bill-payment
+(2021-01-04 22:59:30) Visitor_7: call details
+(2021-01-04 22:59:57) Agent_b: Welcome to the  Chat Support! My name is Agent_4. How may I help you?
+(2021-01-04 23:00:14) Agent_4: I will surely help you out with it. Could you please help me with your name and number?
+(2021-01-04 23:03:43) Agent_4: It seems that you have downloaded t and you have connected to  chat support.
+
+If you have downloaded the  app, please delete the same and contact your country', or download "Vi" App from the App Store.
+(2021-01-04 23:05:21) Agent_4: Ye aap country(desh) se sampark kiye hai, please upar waale link par click kare, me sampark karne ke liye.
+================================================================================
